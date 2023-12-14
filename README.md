@@ -1,2 +1,4 @@
-# html-e-css
- aprendendo html e css básico!
+# Aprendendo html e css
+ Aprendendo o básico da programação sendo inciante!
+
+ Repositório criado para manter guardado.
